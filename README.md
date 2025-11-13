@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aman Deep  
 
-💻 **Aspiring MERN Stack Developer**  
+💻 **MERN Stack Developer**  
 🎓 3rd Year Diploma (IT) @ Government Polytechnic Ghaziabad  
 🚀 Passionate about Web Development | Open Source | Problem Solving  
 
